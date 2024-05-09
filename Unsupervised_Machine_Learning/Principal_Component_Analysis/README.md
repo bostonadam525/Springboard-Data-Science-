@@ -12,3 +12,4 @@
     6. Spectral Clustering
     7. Agglomerative Clustering 
     8. DBSCAN
+* There is a 2nd notebook that I completed on 5/9/2024 that includes a more in depth business case analysis of Wine styles (red, white, sparkling) and the customer segmentation of each type with business recommendations for future wine investment.
