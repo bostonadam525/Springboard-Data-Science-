@@ -1,5 +1,6 @@
 # Datasets for Capstone 2 Project
-* The data we are using for this project is called **Automated measurement of fetal head circumference using 2D ultrasound images**.
+* Project folder by Adam Lang, Springboard Data Science Fellow
+* The dataset I am using for this project is called **Automated measurement of fetal head circumference using 2D ultrasound images**.
 * The data for this project originated from a medical imaging challenge that began in the year 2018 called “Automated measurement of fetal head circumference using 2d ultrasound images”. The results were originally published in a journal article by van den Heuvel et al.
       * Citation: Thomas L. A. van den Heuvel, Dagmar de Bruijn, Chris L. de Korte and Bram van Ginneken. Automated measurement of fetal head circumference using 2D ultrasound images. PloS one, 13.8 (2018): e0200412.
       * Citation: Thomas L. A. van den Heuvel, Dagmar de Bruijn, Chris L. de Korte and Bram van Ginneken. Automated measurement of fetal head circumference using 2D ultrasound images [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1322001
